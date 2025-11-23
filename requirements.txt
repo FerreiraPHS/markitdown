@@ -1,0 +1,2 @@
+# Inclui suporte a PDF e DOCX (necessario para converter .docx).
+markitdown[pdf,docx]>=0.1.3
